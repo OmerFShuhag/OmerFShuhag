@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/OmerFShuhag/Insight">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Insight&cache_seconds=1&theme=tokyonight&hide_border=true" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Insight&cache_seconds=2&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/OmerFShuhag/Sheba-Medicine">
     <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Sheba-Medicine&cache_seconds=1&theme=tokyonight&hide_border=true" />
