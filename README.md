@@ -27,14 +27,9 @@
     <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Insight&cache_seconds=86400&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/OmerFShuhag/Sheba-Medicine">
-    <img width="420" height="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Sheba-Medicine&cache_seconds=86400&theme=tokyonight&hide_border=true" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Sheba-Medicine&cache_seconds=86400&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
-<p align="center">
-  
-</p>
-
 
 ---
 <!--
