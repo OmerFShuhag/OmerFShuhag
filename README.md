@@ -26,12 +26,11 @@
   <a href="https://github.com/OmerFShuhag/Insight">
     <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Insight&theme=tokyonight&hide_border=true" />
   </a>
+ 
 </p>
 
 <p align="center">
-  <a href="https://github.com/OmerFShuhag/Sheba-Medicine">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Sheba-Medicine&theme=tokyonight&hide_border=true" />
-  </a>
+  
 </p>
 
 
