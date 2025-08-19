@@ -24,9 +24,11 @@
 
 <p align="center">
   <a href="https://github.com/OmerFShuhag/Insight">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Insight&theme=tokyonight&hide_border=true" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Insight&cache_seconds=86400&theme=tokyonight&hide_border=true" />
   </a>
- 
+  <a href="https://github.com/OmerFShuhag/Sheba-Medicine">
+    <img width="420" height="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=OmerFShuhag&repo=Sheba-Medicine&cache_seconds=100000&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
@@ -44,17 +46,24 @@
 -->
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=OmerFShuhag&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=OmerFShuhag&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="general stats" />
-</p>
-
-<p align="center">
+<p align="center">    
+  
   <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerFShuhag&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
+<p align="center">
+<img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=OmerFShuhag&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+<p align="center">
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=OmerFShuhag&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="general stats" />
+</p>
+
+---
+## 🏆 GitHub Trophy Cabinet
+
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=omerfshuhag&theme=tokyonight&no-frame=true&title=Experience,Commits,Repositories,Followers" alt="Trophies" />
+</div>
 
 ---
 
